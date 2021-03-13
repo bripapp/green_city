@@ -1,4 +1,4 @@
-# green_city
+
 #Project 1: Green Cities 
 #Summary
 

@@ -1,6 +1,6 @@
 
-#Project 1: Green Cities 
-#Summary
+Project 1: Green Cities 
+Summary
 
 This project investigated whether cities should invest in becoming more “green.” 
 
